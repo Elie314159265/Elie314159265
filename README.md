@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @satoru009008
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Unity,C#,Python,C language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Elie
+- 👀 I’m interested in Linux.
+- 🌱 I've been currently learning Linux,Python.
 
 <!---
 satoru009008/satoru009008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
