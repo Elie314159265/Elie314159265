@@ -1,8 +1,8 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elie314159265&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elie314159265&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elie314159265&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elie314159265&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Elie314159265&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elie314159265&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elie314159265&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elie314159265&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elie314159265&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Elie314159265&theme=algolia&utcOffset=8)
 
 👋 Hi, I’m Elie!  
 🎓 I'm currently a junior university student.
