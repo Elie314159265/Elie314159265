@@ -6,7 +6,7 @@
 # MY SKILLS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=,ubuntu,terraform,py,linux,kali,gitlab,github,gcp,emacs,ansible,git,kubernetes,docker,c,vim" />
   </a>
 </p>
 
