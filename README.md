@@ -3,6 +3,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elie314159265&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elie314159265&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Elie314159265&theme=algolia&utcOffset=8)
+# MY SKILLS
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elie314159265)](https://github.com/Elie314159265/github-profile-trophy)
 
 👋 Hi, I’m Elie!  
 🎓 I'm currently a junior university student.
